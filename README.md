@@ -1,38 +1,39 @@
 # Hi, I'm Ashok Kumar V 👋
 
-**AI/GenAI Engineer** building production-grade LLM systems, with an **MBA in Logistics & Supply Chain Management** — I sit at the intersection of AI engineering and operations analytics.
+**Supply chain analyst who builds with AI.** MBA in Logistics & Supply Chain Management, BCom in Computer Applications — I turn operational data into decisions with SQL, Excel, and Power BI, and I use AI coding tools (LLM assistants) to design and ship working analytics and automation systems.
 
-- 🔭 Currently building: production RAG pipelines, LLM fine-tuning workflows, and supply-chain ML systems
+**About these repos, honestly:** I architect the projects — the business problem, the data model, the pipeline design — and direct AI development tools to implement them, then validate the results. I can walk you through *why* every component exists; I'm still growing toward writing every line myself. I believe this AI-native way of building is a skill in its own right, and I'd rather show it transparently than pretend otherwise.
+
 - 🎓 MBA, Logistics & Supply Chain Management (Bharathidasan University) · BCom, Computer Applications
-- 📍 Tamil Nadu, India · Open to AI Engineer / Data & Supply Chain Analytics roles (Chennai, Bengaluru, Remote)
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ashok-kumar-v) · vashokkumar2012001@gmail.com
+- 📊 Excel · Power BI · Tableau · SQL · Python (working knowledge) · SAP S/4HANA (certified coursework)
+- 📍 Tamil Nadu, India · Open to Data Analyst / Supply Chain Analyst roles (Chennai, Bengaluru, Remote)
+- 📫 [LinkedIn](https://www.linkedin.com/in/ashok-kumar-v) · vashokkumar2012001@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## 📦 Supply Chain & Operations Analytics Projects
 
-### GenAI / LLM Engineering
-| Project | What it shows |
+| Project | Business problem it solves |
 |---|---|
-| [production-grade-rag](https://github.com/Ashok007-cmd/production-grade-rag) | Hybrid search (BM25 + vector + RRF), cross-encoder reranking, SSE streaming, OpenTelemetry + Langfuse observability, LLM-as-Judge evaluation with CI quality gates — **147 tests, 3 CI workflows** |
-| [structured-extraction-ft](https://github.com/Ashok007-cmd/structured-extraction-ft) | Production QLoRA SFT + DPO fine-tuning pipeline and FastAPI inference server for schema-validated JSON extraction — runs on 4 GB VRAM |
-| [echoflow-voice-pipeline](https://github.com/Ashok007-cmd/echoflow-voice-pipeline) | Real-time streaming voice assistant (ASR → LLM → TTS) with sub-second latency, circuit breakers, and full observability |
-| [local-ai-assistant](https://github.com/Ashok007-cmd/local-ai-assistant) | Private-by-design offline resume optimizer & mock interviewer on local Ollama SLMs, security-audited |
-| [rag-observability-layer](https://github.com/Ashok007-cmd/rag-observability-layer) | Monitoring, tracing, and CI regression-gating for RAG pipelines |
+| [realtime-otif-sla-automation](https://github.com/Ashok007-cmd/realtime-otif-sla-automation) | Monitors On-Time-In-Full delivery SLAs in real time — SQL window functions, PostgreSQL, Power BI + Power Automate alerting |
+| [ml-logistics-risk-prediction](https://github.com/Ashok007-cmd/ml-logistics-risk-prediction) | Predicts which shipments are at risk of late delivery so planners can intervene early |
+| [retail-demand-forecasting](https://github.com/Ashok007-cmd/retail-demand-forecasting) | Forecasts retail demand (Corporación Favorita dataset) to reduce stockouts and overstock |
+| [algorithmic-process-mining](https://github.com/Ashok007-cmd/algorithmic-process-mining) | Discovers bottlenecks and conformance gaps in O2C / P2P processes from ERP event logs |
+| [cloud-native-analytics-engineering-pipeline](https://github.com/Ashok007-cmd/cloud-native-analytics-engineering-pipeline) | Models raw data into a clean star schema for BI reporting (dbt + Snowflake/DuckDB) |
 
-### Data & Supply Chain Analytics
-| Project | What it shows |
+## 🤖 AI-Assisted Development Projects
+
+| Project | What it explores |
 |---|---|
-| [cloud-native-analytics-engineering-pipeline](https://github.com/Ashok007-cmd/cloud-native-analytics-engineering-pipeline) | dbt + DuckDB/Snowflake ELT, Kimball star schema, Airflow orchestration, CI with lint/build/test/security gates |
-| [retail-demand-forecasting](https://github.com/Ashok007-cmd/retail-demand-forecasting) | Hybrid Prophet + gradient-boosting forecasting with MLflow tracking and config-driven feature engineering |
-| [ml-logistics-risk-prediction](https://github.com/Ashok007-cmd/ml-logistics-risk-prediction) | End-to-end XGBoost pipeline predicting late-delivery risk, served via FastAPI + Streamlit |
-| [realtime-otif-sla-automation](https://github.com/Ashok007-cmd/realtime-otif-sla-automation) | Real-time OTIF SLA monitoring: SQL window functions, PostgreSQL RLS, Power BI + Power Automate alerting |
+| [production-grade-rag](https://github.com/Ashok007-cmd/production-grade-rag) | A document Q&A system with hybrid search, citations, and automated quality evaluation |
+| [local-ai-assistant](https://github.com/Ashok007-cmd/local-ai-assistant) | A private, offline resume optimizer and mock interviewer running on local models |
+| [structured-extraction-ft](https://github.com/Ashok007-cmd/structured-extraction-ft) | Fine-tuning small models to extract clean, structured data from messy documents |
+| [echoflow-voice-pipeline](https://github.com/Ashok007-cmd/echoflow-voice-pipeline) | A real-time voice assistant pipeline (speech → LLM → speech) |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Core Skills
 
-**AI/ML:** RAG architecture · LLM fine-tuning (QLoRA, SFT, DPO) · LLM evaluation (RAGAS, LLM-as-Judge) · XGBoost · Prophet · MLflow · Ollama
-**Engineering:** Python · FastAPI · SQL/PostgreSQL · dbt · Airflow · Docker · GitHub Actions CI/CD · OpenTelemetry · Streamlit
-**Analytics & BI:** Power BI · Tableau · Excel · Kimball dimensional modeling · Process mining
-**Domain:** Supply Chain Management · Logistics · SAP S/4HANA · SAP Ariba · O2C / P2P processes · OTIF & SLA analytics
+**Analytics & BI:** SQL · Microsoft Excel (advanced) · Power BI · Tableau · dashboarding & KPI reporting
+**Domain:** Supply Chain Management · Logistics · O2C / P2P processes · OTIF & SLA metrics · demand planning concepts · SAP S/4HANA · SAP Ariba
+**Building:** Python (working knowledge) · AI-assisted development (LLM coding tools) · Git/GitHub · process automation
