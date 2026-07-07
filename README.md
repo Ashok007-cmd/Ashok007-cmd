@@ -7,12 +7,20 @@
 **About these repos, honestly:** I architect the projects — the business problem, the data model, the pipeline design — and direct AI development tools to implement them, then validate the results. I can walk you through *why* every component exists; I'm still growing toward writing every line myself. I believe this AI-native way of building is a skill in its own right, and I'd rather show it transparently than pretend otherwise.
 
 
-- 🎓 MBA, Logistics & Supply Chain Management (Bharathidasan University) · BCom, Computer Applications
+- - 🎓 MBA, Logistics & Supply Chain Management (Bharathidasan University) · BCom, Computer Applications
 - - 📊 Excel · Power BI · Tableau · SQL · Python (working knowledge) · SAP S/4HANA (certified coursework)
-  - - 📍 Tamil Nadu, India · Open to Data Analyst / Supply Chain Analyst roles (Chennai, Bengaluru, Remote)
-    - - 📫 [LinkedIn](https://www.linkedin.com/in/ashok-kumar-v) · vashokkumar2012001@gmail.com
+- - 📍 Tamil Nadu, India · Open to Data Analyst / Supply Chain Analyst roles (Chennai, Bengaluru, Remote)
+- - 📫 [LinkedIn](https://www.linkedin.com/in/ashok-kumar-v) · vashokkumar2012001@gmail.com
      
     - ---
+
+
+    ## 🌐 Interactive 3D Portfolio
+
+    **[ashok007-cmd.github.io/portfolio-3d](https://ashok007-cmd.github.io/portfolio-3d/)** — a separate, fully animated companion site: dark futuristic theme, glassmorphism cards, soft gradients, a rotating 3D hero object built with Three.js, GSAP-powered parallax scrolling, and hover micro-animations throughout. GitHub's README can't execute JavaScript, so the live motion and 3D rendering only show up on the site itself — click through to see it in action.
+
+
+    ---
 
 
     ## 📦 Supply Chain & Operations Analytics Projects
