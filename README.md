@@ -15,14 +15,6 @@
     - ---
 
 
-    ## 🌐 Interactive 3D Portfolio
-
-    **[ashok007-cmd.github.io/portfolio-3d](https://ashok007-cmd.github.io/portfolio-3d/)** — a separate, fully animated companion site: dark futuristic theme, glassmorphism cards, soft gradients, a rotating 3D hero object built with Three.js, GSAP-powered parallax scrolling, and hover micro-animations throughout. GitHub's README can't execute JavaScript, so the live motion and 3D rendering only show up on the site itself — click through to see it in action.
-
-
-    ---
-
-
     ## 📦 Supply Chain & Operations Analytics Projects
 
 
