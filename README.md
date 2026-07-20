@@ -24,8 +24,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashok007-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashok's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok007-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Ashok007-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashok's GitHub Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashok007-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
 </p>
 
 <p align="center">
@@ -84,5 +84,5 @@ Portfolio built over **May 2025 – July 2026**, alongside completing my MBA. Du
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashok007-cmd&color=2E9EF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <a href="https://github.com/Ashok007-cmd"><img src="https://komarev.com/ghpvc/?username=Ashok007-cmd&color=2E9EF7&style=flat-square&label=Profile+Views" alt="Profile views"/></a>
 </p>
